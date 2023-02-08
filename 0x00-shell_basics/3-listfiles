@@ -1,20 +1,2 @@
 #!/bin/bash
-total 20
--rwxr--r-- 1 root root 16 Feb  8 06:07 0-current_working_directory
--rwxr--r-- 1 root root 15 Feb  8 06:32 1-listit
--rwxr--r-- 1 root root 17 Feb  8 10:19 2-bring_me_home
--rw-r--r-- 1 root root 12 Feb  8 10:51 3-listfiles
--rw-r--r-- 1 root root 76 Feb  8 06:13 README.md
-total 20
--rwxr--r-- 1 root root  16 Feb  8 06:07 0-current_working_directory
--rwxr--r-- 1 root root  15 Feb  8 06:32 1-listit
--rwxr--r-- 1 root root  17 Feb  8 10:19 2-bring_me_home
--rw-r--r-- 1 root root 291 Feb  8 10:53 3-listfiles
--rw-r--r-- 1 root root  76 Feb  8 06:13 README.md
-total 20
--rwxr--r-- 1 root root  16 Feb  8 06:07 0-current_working_directory
--rwxr--r-- 1 root root  15 Feb  8 06:32 1-listit
--rwxr--r-- 1 root root  17 Feb  8 10:19 2-bring_me_home
--rw-r--r-- 1 root root 575 Feb  8 10:56 3-listfiles
--rw-r--r-- 1 root root  76 Feb  8 06:13 README.md
 ls -l
