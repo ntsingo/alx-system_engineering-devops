@@ -1,2 +1,19 @@
+total 24
+
+drwxr-xr-x 2 996 992 139 .
+
+drwxr-xr-x 4 996 992 43 ..
+
+-rwxr-xr-x 1 996 992 16 0-current_working_directory
+
+-rwxr-xr-x 1 996 992 15 1-listit
+
+-rwxr-xr-x 1 996 992 17 2-bring_me_home
+
+-rwxr-xr-x 1 996 992 18 3-listfiles
+
+-rwxr-xr-x 1 996 992 19 4-listmorefiles
+
+-rw-r--r-- 1 996 992 76 README.md
 #!/bin/bash
 ls -el
